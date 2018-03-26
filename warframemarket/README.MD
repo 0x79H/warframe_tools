@@ -1,2 +1,3 @@
 # todo list
-- [ ] english -> api_url
+- [x] english -> api_url
+- [x] english -> cn_name
